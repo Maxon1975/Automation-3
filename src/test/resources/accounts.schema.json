@@ -14,10 +14,10 @@
     ],
     "properties": {
       "id": {
-        "type": "string"
+        "type": "integer"
       },
       "name": {
-        "type": "integer",
+        "type": "string",
         "minLength": 1
       },
       "number": {
